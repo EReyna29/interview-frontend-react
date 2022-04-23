@@ -343,7 +343,7 @@
     .contenedor{
         margin: auto;
         width: fit-content;
-        height: 28vh;
+        height: 10rem;
         
         padding: 1rem ;
         display: flexbox;
@@ -468,7 +468,7 @@
     .contenedor{
         margin: auto;
         width: fit-content;
-        height: 28vh;
+        height: 11rem;
         
         padding: 1rem ;
         display: flexbox;
