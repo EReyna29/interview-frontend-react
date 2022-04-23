@@ -10,7 +10,8 @@
     .main {
         background: linear-gradient(0deg, rgba(0, 0, 0, 0.90) 0%, rgba(0, 0, 0, 0.80) 100%);
         width: 100vw;
-        height: 100vh;
+        min-height: 100vh;
+        height: max-content;
     }
     .nav {
         width: 100%;
@@ -137,7 +138,8 @@
     .main {
         background: linear-gradient(0deg, rgba(0, 0, 0, 0.90) 0%, rgba(0, 0, 0, 0.80) 100%);
         width: 100vw;
-        height: 100vh;
+        min-height: 100vh;
+        height: max-content;
     }
     .nav {
         width: 100%;
@@ -263,7 +265,8 @@
     .main {
         background: linear-gradient(0deg, rgba(0, 0, 0, 0.90) 0%, rgba(0, 0, 0, 0.80) 100%);
         width: 100vw;
-        height: 100vh;
+        min-height: 100vh;
+        height: max-content;
     }
     .nav {
         width: 100%;
@@ -386,7 +389,8 @@
     .main {
         background: linear-gradient(0deg, rgba(0, 0, 0, 0.90) 0%, rgba(0, 0, 0, 0.80) 100%);
         width: 100vw;
-        height: 100vh;
+        min-height: 100vh;
+        height: max-content;
     }
     .nav {
         width: 100%;
